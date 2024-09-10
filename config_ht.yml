@@ -49,11 +49,11 @@
     - path: in_06-17_16-41-04-958.pcm
       doa: 4
       wakeup_count: 180
-- group_name: 误唤醒
-  audio_list:
-    - path: in_08-17_19-34-26-126.pcm
-      wakeup_count: 0
-      type: 1
-    - path: in_09-06_11-34-47-898.pcm
-      wakeup_count: 1
-      type: 1
+# - group_name: 误唤醒
+  # audio_list:
+    # - path: in_08-17_19-34-26-126.pcm
+      # wakeup_count: 0
+      # type: 1
+    # - path: in_09-06_11-34-47-898.pcm
+      # wakeup_count: 1
+      # type: 1
